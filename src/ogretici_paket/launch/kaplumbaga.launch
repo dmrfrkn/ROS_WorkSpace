@@ -1,0 +1,11 @@
+<?xml version = "1.0"?>
+
+<launch>
+
+	<!-- TurtleSim Düğümü -->
+	<node pkg = "turtlesim" type = "turtlesim_node" name = "tosbaga"  />	
+	
+	<!-- Kare Hareket Düğümü -->
+	<node pkg = "turtlesim" type = "draw_square" name = "kare_cizdir"  />	
+
+</launch>

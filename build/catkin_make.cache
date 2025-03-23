@@ -1,0 +1,2 @@
+ogretici_paket
+-DCATKIN_DEVEL_PREFIX=/home/fd/catkin_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/fd/catkin_workspace/install -G Unix Makefiles

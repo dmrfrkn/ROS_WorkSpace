@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/fd/catkin_workspace/devel/setup.sh

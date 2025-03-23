@@ -1,0 +1,8 @@
+prefix=/home/fd/catkin_workspace/devel
+
+Name: ogretici_paket
+Description: Description of ogretici_paket
+Version: 0.0.0
+Cflags: -I/home/fd/catkin_workspace/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime
