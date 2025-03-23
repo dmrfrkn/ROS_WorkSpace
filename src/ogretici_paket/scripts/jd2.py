@@ -6,7 +6,7 @@ import numpy as np
 import cv2
 import math
 
-
+print("hello world")
 iha = connect('127.0.0.1:14550', wait_ready=True, timeout=50, baud=921600)
 
 one_time=True
