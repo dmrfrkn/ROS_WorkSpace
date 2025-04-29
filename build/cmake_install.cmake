@@ -118,6 +118,21 @@ endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
+   "/home/fd/catkin_workspace/install/setup.fish;/home/fd/catkin_workspace/install/local_setup.fish")
+  if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
+    message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
+  endif()
+  if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
+    message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
+  endif()
+file(INSTALL DESTINATION "/home/fd/catkin_workspace/install" TYPE FILE FILES
+    "/home/fd/catkin_workspace/build/catkin_generated/installspace/setup.fish"
+    "/home/fd/catkin_workspace/build/catkin_generated/installspace/local_setup.fish"
+    )
+endif()
+
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
+  list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
    "/home/fd/catkin_workspace/install/.rosinstall")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
@@ -131,6 +146,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/fd/catkin_workspace/build/gtest/cmake_install.cmake")
+  include("/home/fd/catkin_workspace/build/basit_uyg/cmake_install.cmake")
   include("/home/fd/catkin_workspace/build/ogretici_paket/cmake_install.cmake")
 
 endif()

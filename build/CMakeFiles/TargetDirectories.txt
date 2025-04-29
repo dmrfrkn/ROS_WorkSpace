@@ -35,6 +35,14 @@
 /home/fd/catkin_workspace/build/gtest/googletest/CMakeFiles/test.dir
 /home/fd/catkin_workspace/build/gtest/googletest/CMakeFiles/gtest_main.dir
 /home/fd/catkin_workspace/build/gtest/googletest/CMakeFiles/gtest.dir
+/home/fd/catkin_workspace/build/basit_uyg/CMakeFiles/install/strip.dir
+/home/fd/catkin_workspace/build/basit_uyg/CMakeFiles/install/local.dir
+/home/fd/catkin_workspace/build/basit_uyg/CMakeFiles/install.dir
+/home/fd/catkin_workspace/build/basit_uyg/CMakeFiles/list_install_components.dir
+/home/fd/catkin_workspace/build/basit_uyg/CMakeFiles/rebuild_cache.dir
+/home/fd/catkin_workspace/build/basit_uyg/CMakeFiles/edit_cache.dir
+/home/fd/catkin_workspace/build/basit_uyg/CMakeFiles/test.dir
+/home/fd/catkin_workspace/build/basit_uyg/CMakeFiles/_catkin_empty_exported_target.dir
 /home/fd/catkin_workspace/build/ogretici_paket/CMakeFiles/install/strip.dir
 /home/fd/catkin_workspace/build/ogretici_paket/CMakeFiles/install.dir
 /home/fd/catkin_workspace/build/ogretici_paket/CMakeFiles/list_install_components.dir

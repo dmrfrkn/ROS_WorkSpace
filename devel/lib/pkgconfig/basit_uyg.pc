@@ -1,0 +1,8 @@
+prefix=/home/fd/catkin_workspace/devel
+
+Name: basit_uyg
+Description: Description of basit_uyg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
