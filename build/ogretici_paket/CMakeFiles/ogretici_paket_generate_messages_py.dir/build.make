@@ -73,41 +73,41 @@ ogretici_paket/CMakeFiles/ogretici_paket_generate_messages_py: /home/fd/catkin_w
 
 /home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumAction.py: /opt/ros/noetic/lib/genpy/genmsg_py.py
 /home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumAction.py: /home/fd/catkin_workspace/devel/share/ogretici_paket/msg/GorevDurumAction.msg
-/home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumAction.py: /home/fd/catkin_workspace/devel/share/ogretici_paket/msg/GorevDurumActionGoal.msg
-/home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumAction.py: /home/fd/catkin_workspace/devel/share/ogretici_paket/msg/GorevDurumResult.msg
-/home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumAction.py: /home/fd/catkin_workspace/devel/share/ogretici_paket/msg/GorevDurumActionFeedback.msg
-/home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumAction.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
-/home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumAction.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumAction.py: /home/fd/catkin_workspace/devel/share/ogretici_paket/msg/GorevDurumActionResult.msg
-/home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumAction.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
 /home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumAction.py: /home/fd/catkin_workspace/devel/share/ogretici_paket/msg/GorevDurumGoal.msg
+/home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumAction.py: /home/fd/catkin_workspace/devel/share/ogretici_paket/msg/GorevDurumActionFeedback.msg
+/home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumAction.py: /home/fd/catkin_workspace/devel/share/ogretici_paket/msg/GorevDurumActionGoal.msg
+/home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumAction.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
+/home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumAction.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
+/home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumAction.py: /home/fd/catkin_workspace/devel/share/ogretici_paket/msg/GorevDurumResult.msg
 /home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumAction.py: /home/fd/catkin_workspace/devel/share/ogretici_paket/msg/GorevDurumFeedback.msg
+/home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumAction.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/fd/catkin_workspace/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Generating Python from MSG ogretici_paket/GorevDurumAction"
 	cd /home/fd/catkin_workspace/build/ogretici_paket && ../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genpy/cmake/../../../lib/genpy/genmsg_py.py /home/fd/catkin_workspace/devel/share/ogretici_paket/msg/GorevDurumAction.msg -Iogretici_paket:/home/fd/catkin_workspace/src/ogretici_paket/msg -Iogretici_paket:/home/fd/catkin_workspace/devel/share/ogretici_paket/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p ogretici_paket -o /home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg
 
 /home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumActionGoal.py: /opt/ros/noetic/lib/genpy/genmsg_py.py
 /home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumActionGoal.py: /home/fd/catkin_workspace/devel/share/ogretici_paket/msg/GorevDurumActionGoal.msg
-/home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumActionGoal.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumActionGoal.py: /home/fd/catkin_workspace/devel/share/ogretici_paket/msg/GorevDurumGoal.msg
 /home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumActionGoal.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
+/home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumActionGoal.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/fd/catkin_workspace/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Generating Python from MSG ogretici_paket/GorevDurumActionGoal"
 	cd /home/fd/catkin_workspace/build/ogretici_paket && ../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genpy/cmake/../../../lib/genpy/genmsg_py.py /home/fd/catkin_workspace/devel/share/ogretici_paket/msg/GorevDurumActionGoal.msg -Iogretici_paket:/home/fd/catkin_workspace/src/ogretici_paket/msg -Iogretici_paket:/home/fd/catkin_workspace/devel/share/ogretici_paket/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p ogretici_paket -o /home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg
 
 /home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumActionResult.py: /opt/ros/noetic/lib/genpy/genmsg_py.py
 /home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumActionResult.py: /home/fd/catkin_workspace/devel/share/ogretici_paket/msg/GorevDurumActionResult.msg
 /home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumActionResult.py: /home/fd/catkin_workspace/devel/share/ogretici_paket/msg/GorevDurumResult.msg
-/home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumActionResult.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumActionResult.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
 /home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumActionResult.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
+/home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumActionResult.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/fd/catkin_workspace/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Generating Python from MSG ogretici_paket/GorevDurumActionResult"
 	cd /home/fd/catkin_workspace/build/ogretici_paket && ../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genpy/cmake/../../../lib/genpy/genmsg_py.py /home/fd/catkin_workspace/devel/share/ogretici_paket/msg/GorevDurumActionResult.msg -Iogretici_paket:/home/fd/catkin_workspace/src/ogretici_paket/msg -Iogretici_paket:/home/fd/catkin_workspace/devel/share/ogretici_paket/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p ogretici_paket -o /home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg
 
 /home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumActionFeedback.py: /opt/ros/noetic/lib/genpy/genmsg_py.py
 /home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumActionFeedback.py: /home/fd/catkin_workspace/devel/share/ogretici_paket/msg/GorevDurumActionFeedback.msg
-/home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumActionFeedback.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
+/home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumActionFeedback.py: /home/fd/catkin_workspace/devel/share/ogretici_paket/msg/GorevDurumFeedback.msg
 /home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumActionFeedback.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalStatus.msg
 /home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumActionFeedback.py: /opt/ros/noetic/share/actionlib_msgs/msg/GoalID.msg
-/home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumActionFeedback.py: /home/fd/catkin_workspace/devel/share/ogretici_paket/msg/GorevDurumFeedback.msg
+/home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg/_GorevDurumActionFeedback.py: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/fd/catkin_workspace/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Generating Python from MSG ogretici_paket/GorevDurumActionFeedback"
 	cd /home/fd/catkin_workspace/build/ogretici_paket && ../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genpy/cmake/../../../lib/genpy/genmsg_py.py /home/fd/catkin_workspace/devel/share/ogretici_paket/msg/GorevDurumActionFeedback.msg -Iogretici_paket:/home/fd/catkin_workspace/src/ogretici_paket/msg -Iogretici_paket:/home/fd/catkin_workspace/devel/share/ogretici_paket/msg -Iactionlib_msgs:/opt/ros/noetic/share/actionlib_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p ogretici_paket -o /home/fd/catkin_workspace/devel/lib/python3/dist-packages/ogretici_paket/msg
 
