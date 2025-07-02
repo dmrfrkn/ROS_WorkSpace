@@ -12,7 +12,7 @@ class WaypointSender:
         # Hedef GPS konumu
         self.target_lat = -35.35467   # derece cinsinden
         self.target_lon = 149.160763   # derece cinsinden
-        self.altitude = 100            # hedef irtifa (metre)
+        self.altitude = 125            # hedef irtifa (metre)
 
         # MAVLink koordinat dönüşümü (1e7)
         self.target_lat_int = int(self.target_lat * 1e7)
